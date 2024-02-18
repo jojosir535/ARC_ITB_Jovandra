@@ -1,0 +1,6 @@
+Jovandra Otniel P. S.
+19623032
+
+Fork adalah salinan repository yang dibuat oleh pengguna lain di GitHub ke akun yang lain. Ini memudahkan user untuk bekerja pada project tanpa mengubah repository asli.
+
+Pull request adalah request untuk merge perubahan dari branch atau fork yang berbeda ke repository asli. Ini memungkinkan kontributor untuk memberi tahu pemilik proyek tentang perubahan yang mereka usulkan dan memulai diskusi tentang perubahan tersebut sebelum di-merge.

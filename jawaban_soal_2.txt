@@ -1,0 +1,4 @@
+Jovandra Otniel P. S.
+19623032
+
+Git rebase adalah salah satu perintah dalam Git yang digunakan untuk menggabungkan perubahan dari satu branch ke branch lain dengan mengubah urutan commit. Ini memungkinkan pengguna untuk menjaga sejarah commit yang lebih bersih dan linier dibandingkan jika menggunakan merge.
