@@ -1,0 +1,6 @@
+Jovandra Otniel P. S.
+19623032
+
+Git merge conflict adalah sebuah kejadian dimana Git tidak dapat mengatasi perbedaan pada kode antara dua commit. Hal ini terjadi jika perbedaan tersebut berada di baris kode yang sama.
+ 
+Merge conflict dapat diatasi dengan cara membuka file yang terdapat conlict lalu memperbaiki bagian yang terkena conflict. Lalu, perintah git add digunakan untuk menampilkan file baru yang akan di-merge. Kemudian, commit dilakukan dengan perintah git commit.
